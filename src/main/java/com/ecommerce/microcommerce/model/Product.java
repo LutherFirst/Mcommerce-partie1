@@ -1,6 +1,7 @@
 package com.ecommerce.microcommerce.model;
 
 import com.fasterxml.jackson.annotation.JsonFilter;
+import java.util.Comparator;
 import org.hibernate.validator.constraints.Length;
 
 import javax.persistence.Entity;
